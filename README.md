@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Supbar
+- 👀 I’m interested in programing, economy, politics and sport
+- 🌱 I’m currently learning how to use git and github, react/css/html and playing on ukulele :)
